@@ -51,7 +51,7 @@ const Sidebar = () => {
         </div>
 
         <div className="flex items-center gap-5 border-y-[1.5px] border-gray-200 px-8 py-4 dark:border-gray-700">
-          <Image alt="logo" src={'/logo.png'} width={40} height={40} />
+          <Image alt="logo" src={'https://pms3magesproject.s3.us-east-1.amazonaws.com/logo.png'} width={40} height={40} />
           <div>
             <h3 className="text-md font-bold tracking-wide dark:text-gray-200">
               MY Team
